@@ -4,3 +4,4 @@
 *.xlsx
 /Estadisticas_2025
 /.No
+/Funciones/__pycache__
