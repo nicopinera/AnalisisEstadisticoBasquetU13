@@ -46,7 +46,7 @@ El análisis se organiza en tres notebooks principales:
 
 El archivo `requirements.txt` ya incluye todo lo necesario:
 
-```
+```txt
 pandas
 matplotlib
 pre-commit
