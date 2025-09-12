@@ -126,6 +126,12 @@ estadisticas_por_equipo.resumen_tiros_por_equipo('resumen_estadisticas_jugadores
 
 ---
 
+## Video Explicativo
+
+![Video](https://youtu.be/ECQguZU7A_w)
+
+---
+
 ## 📚 Glosario rápido
 
 - **Notebook**: Archivo interactivo donde podés ver y ejecutar análisis paso a paso.
