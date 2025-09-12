@@ -128,7 +128,7 @@ estadisticas_por_equipo.resumen_tiros_por_equipo('resumen_estadisticas_jugadores
 
 ## Video Explicativo
 
-![Video](https://youtu.be/ECQguZU7A_w)
+[Video](https://youtu.be/ECQguZU7A_w)
 
 ---
 
